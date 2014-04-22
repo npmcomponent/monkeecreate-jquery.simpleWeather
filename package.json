@@ -1,44 +1,18 @@
 {
-  "name": "simpleweather",
-  "version": "2.7.0",
+  "name": "monkeecreate-jquery.simpleweather",
   "description": "A simple jQuery plugin to display current weather data for any location and doesn't get in your way.",
+  "version": "2.7.0",
   "keywords": [
     "jquery",
     "javascript",
     "weather",
     "plugin",
-    "simple"
+    "simple",
+    "monkeecreate"
   ],
-  "homepage": "http://simpleweatherjs.com",
-  "bugs": "https://github.com/monkeecreate/jquery.simpleWeather/issues",
-  "author": {
-    "name": "James Fleeting",
-    "email": "hello@jamesfleeting.com",
-    "url": "https://github.com/fleeting"
-  },
   "main": "jquery.simpleWeather.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/monkeecreate/jquery.simpleWeather.git"
+  "dependencies": {
+    "components-jquery": "git://github.com/npmcomponent/components-jquery.git"
   },
-  "engines": {
-    "node": ">=0.8.0",
-    "npm": ">=1.2.10"
-  },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
-  "devDependencies": {
-    "gulp": "latest",
-    "gulp-uglify": "latest",
-    "gulp-jshint": "latest",
-    "gulp-rename": "latest",
-    "gulp-bump": "latest",
-    "gulp-git": "~0.2.0",
-    "gulp-size": "latest",
-    "jshint-stylish": "latest",
-    "gulp-notify": "latest"
-  }
+  "license": "MIT"
 }

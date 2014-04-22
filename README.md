@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [monkeecreate/jquery.simpleweather](http://github.com/monkeecreate/jquery.simpleweather). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/monkeecreate-jquery.simpleweather`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # simpleWeather - jQuery Plugin [![GitHub version](https://badge.fury.io/gh/monkeecreate%2Fjquery.simpleWeather.png)](http://badge.fury.io/gh/monkeecreate%2Fjquery.simpleWeather)
 
 A simple jQuery plugin to display current weather data for any location and doesn't get in your way. Now supports HTML5 GeoLocation! Developed by [James Fleeting](http://twitter.com/fleetingftw). You can find demos and docs at [simpleweatherjs.com](http://simpleweatherjs.com).
